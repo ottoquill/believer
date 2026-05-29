@@ -1,0 +1,43 @@
+{
+  "title": "Believer",
+  "subtitle": "A Novel",
+  "series": null,
+  "edition": 1,
+  "author": "Paul Reinholdtsen",
+  "language": "English",
+  "publication_year": 2026,
+  "tagline": "He cannot tell a lie. Neither can anyone in the room.",
+  "logline": "A virtuoso corporate liar wakes unable to lie -- and so can no one near him -- and must stop the sincere demagogue his gift creates.",
+  "bisac_categories": [
+    "FICTION / Literary",
+    "FICTION / Dystopian",
+    "FICTION / Satire"
+  ],
+  "keywords": [
+    "literary speculative fiction book club",
+    "dystopian satire near future",
+    "cannot tell a lie power",
+    "truth and morality novel",
+    "cult leader faith and doubt fiction",
+    "high concept literary thriller",
+    "superhero origin literary novel"
+  ],
+  "comparable_titles": [
+    "Blindness — Jose Saramago",
+    "The Power — Naomi Alderman",
+    "Station Eleven — Emily St. John Mandel",
+    "Never Let Me Go — Kazuo Ishiguro"
+  ],
+  "price_usd": 5.99,
+  "royalty_plan": "70%",
+  "drm": false,
+  "kindle_unlimited": "recommended (90-day enrollment)",
+  "audience": "Adult (18+)",
+  "content_notes": "Mature themes: brief non-graphic off-page suicide; restrained violence; non-explicit sexual content; sparing profanity.",
+  "files": {
+    "epub": "build/Believer.epub",
+    "docx": "build/Believer.docx",
+    "cover": "art/cover.jpg",
+    "description": "metadata/description.html"
+  }
+}

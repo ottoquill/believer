@@ -1,0 +1,72 @@
+/* Believer — EPUB stylesheet. Conservative for broad e-reader support. */
+
+body {
+  font-family: Georgia, "Noto Serif", serif;
+  line-height: 1.5;
+  margin: 0 5%;
+  text-align: justify;
+  widows: 2;
+  orphans: 2;
+}
+
+/* Part dividers (h1) */
+h1 {
+  text-align: center;
+  font-weight: normal;
+  font-size: 1.7em;
+  line-height: 1.2;
+  margin: 28% 0 12% 0;
+  page-break-before: always;
+  letter-spacing: 0.04em;
+}
+
+/* Chapter & interlude titles (h2) */
+h2 {
+  text-align: center;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1.35em;
+  margin: 14% 0 8% 0;
+  page-break-before: always;
+  letter-spacing: 0.02em;
+}
+
+p {
+  margin: 0;
+  text-indent: 1.3em;
+}
+
+/* First paragraph after a heading: no indent */
+h1 + p, h2 + p, h3 + p, hr + p, blockquote + p {
+  text-indent: 0;
+}
+
+/* Scene-break spacing for the first line of a new run */
+p.firstpara { text-indent: 0; }
+
+/* Epigraphs, dedication, document datelines */
+blockquote {
+  margin: 1.2em 8%;
+  font-style: italic;
+  text-align: left;
+}
+blockquote p { text-indent: 0; margin: 0.4em 0; }
+
+em, i { font-style: italic; }
+
+/* Dossier interlude dateline (an italic line right under the title) */
+h2 + p em:only-child { display: block; text-align: center; }
+
+hr {
+  border: none;
+  text-align: center;
+  margin: 1.6em 0;
+}
+hr:after {
+  content: "\2042";   /* asterism-ish ornament */
+  font-size: 1.1em;
+  letter-spacing: 0.3em;
+}
+
+/* Unlisted front/back matter headings still centered */
+.unnumbered { }

@@ -1,6 +1,6 @@
 # Design Spec — *Believer* (a novel) + Kindle publication package
 
-**Date:** 2026-05-29 · **Status:** Approved, in production · **Author of record:** Paul Reinholdtsen
+**Date:** 2026-05-29 · **Status:** Approved, in production · **Author of record:** Otto Quill (pen name)
 
 ## Goal
 Produce an award-worthy, full-length literary novel — *Believer* — and every artifact required to publish it on Amazon Kindle (KDP), generated with maximal automation and creativity.

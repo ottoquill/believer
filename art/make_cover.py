@@ -154,15 +154,15 @@ bd.line([(bead_x, bead_top), (bead_x, bead_bottom)], fill=OXBLOOD, width=2 * SS)
 bd.ellipse([bead_x - 9 * SS, bead_bottom - 9 * SS, bead_x + 9 * SS, bead_bottom + 9 * SS], fill=OXBLOOD_HOT)
 
 # ---------- subtitle ----------
-sub_font = serif("Regular", 40)
-draw_tracked((W2 // 2, int(H2 * 0.555)), "A   N O V E L", sub_font, BONE_DIM, 10 * SS)
+sub_font = ImageFont.truetype(f"{NOTO}/NotoSerif-Italic.ttf", 54 * SS)
+draw_tracked((W2 // 2, int(H2 * 0.55)), "The truth has a radius.", sub_font, (192, 188, 178), 2 * SS)
 
 # ---------- hairline + author ----------
 rule_y = int(H2 * 0.90)
 rule_w = int(W2 * 0.20)
 draw.line([(W2 // 2 - rule_w, rule_y), (W2 // 2 + rule_w, rule_y)], fill=(90, 88, 82), width=1 * SS)
 auth_font = sans("Regular", 40)
-draw_tracked((W2 // 2, rule_y + 30 * SS), "PAUL  REINHOLDTSEN", auth_font, BONE, 9 * SS)
+draw_tracked((W2 // 2, rule_y + 30 * SS), "OTTO  QUILL", auth_font, BONE, 12 * SS)
 
 # ---------- downsample + save ----------
 final = base.resize((W, H), Image.LANCZOS)

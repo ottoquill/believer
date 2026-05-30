@@ -20,4 +20,4 @@ Daniel Mercer, the most gifted crisis-communications fixer of his generation, wa
 - **Register:** Literary realism for Daniel's chapters; biting satire for the dossier interludes; the architecture and escalation of a superhero origin, inverted (the "power" is a curse, the "villain" cannot be punched, the climax is a confession).
 
 ## Working title
-**Believer** — *A Novel.* (Author of record: Paul Reinholdtsen — editable in metadata.)
+**Believer** — *The truth has a radius.* (Author of record: Otto Quill — pen name.)

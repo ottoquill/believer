@@ -2,9 +2,9 @@
 
 **BELIEVER**
 
-*A Novel*
+*The truth has a radius.*
 
-Copyright © 2026 by Paul Reinholdtsen
+Copyright © 2026 by Otto Quill
 
 All rights reserved.
 
@@ -3292,7 +3292,7 @@ He opened the door and let her go in ahead of him, into the small warm light, an
 
 # About the Author {.unnumbered}
 
-**Paul Reinholdtsen** writes literary fiction at the seam where the speculative meets the everyday — stories that take one impossible premise seriously enough to find the human truth inside it. *Believer* is his debut novel.
+**Otto Quill** writes literary fiction at the seam where the speculative meets the everyday — stories that take one impossible premise seriously enough to find the human truth inside it. *Believer* is his debut novel.
 
 *(Author bio is a placeholder — edit freely before publishing.)*
 

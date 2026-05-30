@@ -4,10 +4,10 @@ Everything needed to publish on Amazon Kindle Direct Publishing (KDP). Fields ma
 
 ## Title & contributors
 - **Book title:** Believer
-- **Subtitle:** A Novel
+- **Subtitle:** The truth has a radius.
 - **Series:** None (standalone)
 - **Edition number:** 1
-- **Author (primary):** Paul Reinholdtsen *(author of record — change in this file and on the title/copyright pages if desired)*
+- **Author (primary):** Otto Quill *(pen name — author of record on the cover, title page, and copyright page)*
 - **Contributors:** —
 - **Language:** English
 - **Publication date:** 2026

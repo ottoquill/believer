@@ -2,9 +2,9 @@
 
 **BELIEVER**
 
-*A Novel*
+*The truth has a radius.*
 
-Copyright © 2026 by Paul Reinholdtsen
+Copyright © 2026 by Otto Quill
 
 All rights reserved.
 

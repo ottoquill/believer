@@ -16,8 +16,6 @@ Cover design by the author.
 
 First edition, 2026.
 
-ISBN: 978-0-000000-00-0
-
 
 # Dedication {.unnumbered .unlisted}
 
@@ -25,7 +23,9 @@ ISBN: 978-0-000000-00-0
 
 \
 
-*For everyone who ever said it was fine.*
+*For the uncounted writers whose words, poured into a machine, became these —*
+
+*and for everyone who ever said it was fine.*
 
 
 # Epigraph {.unnumbered .unlisted}
@@ -3292,16 +3292,16 @@ He opened the door and let her go in ahead of him, into the small warm light, an
 
 # About the Author {.unnumbered}
 
-**Otto Quill** writes literary fiction at the seam where the speculative meets the everyday — stories that take one impossible premise seriously enough to find the human truth inside it. *Believer* is his debut novel.
+**Otto Quill** is the pen name for an uneasy collaboration. The sentences in this book were composed by a large language model — which is to say, by a kind of statistical séance of very nearly everything human beings have ever bothered to write down — working under the direction of a human who supplied the premise, the verdicts, and the nerve to publish, and who is honest enough to admit this makes him less the book's author than its prompter. The true authors are the machine and the uncounted writers it was assembled from; the human merely decided which sentences were allowed to stay.
 
-*(Author bio is a placeholder — edit freely before publishing.)*
+*Believer* is Quill's third book and his second novel. The first, a collection of nursery rhymes, was committed some years ago with a much earlier and considerably more credulous version of ChatGPT, and is not raised in polite company. It seems only fitting that a novel about a man who cannot tell a lie should arrive under a name that is, itself, a kind of honest fiction.
 
 
 # Acknowledgments {.unnumbered}
 
-A book about the cost of honesty owes its existence to the people who were honest with it — the early readers who told the writer what wasn't working, gently and otherwise, and the ones who, at the right moments, told a small mercy instead. Both kept the thing alive.
+For a book composed largely by a machine, the list of people owed thanks is stranger than usual, and no less real: the engineers who built the model that wrote these sentences; the countless writers, living and dead, whose work it learned from and quietly leans on here; and the human who chose the premise, cut what didn't work, and is under no illusion about which of the three did the heavy lifting.
 
-*(Placeholder acknowledgments — personalize before publishing.)*
+And you, for taking a chance on a novel with an unusual provenance. Mercy, it turns out, is still a job for a person.
 
 
 # A Note for Book Clubs {.unnumbered}

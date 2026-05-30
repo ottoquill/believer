@@ -15,5 +15,3 @@ No part of this book may be reproduced, stored in a retrieval system, or transmi
 Cover design by the author.
 
 First edition, 2026.
-
-ISBN: 978-0-000000-00-0
